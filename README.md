@@ -4,6 +4,8 @@
 
 Query Datadog directly from Cursor using natural language. Ask about logs, metrics, traces, dashboards, monitors, and more — just like asking a colleague.
 
+This documentation-only update adds a short paragraph so repository automation can detect a fresh README change and run a new pull request review cycle without affecting plugin behavior.
+
 ## What you need
 
 - A [Datadog](https://www.datadoghq.com/) account
